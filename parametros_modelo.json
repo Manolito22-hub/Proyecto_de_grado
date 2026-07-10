@@ -1,0 +1,16 @@
+{
+  "ventana_corta_dias": 7,
+  "ventana_larga_dias": 30,
+  "horizonte_dias": 14,
+  "umbral_idc": 0.5,
+  "umbral_flag_critico": 5,
+  "n_vars_monitoreadas": 10,
+  "ventana_mm_optima": 7,
+  "modelo_seleccionado": "Random Forest",
+  "auc_roc_prueba": 0.8096,
+  "f1_prueba": 0.7684,
+  "precision_prueba": 0.6733,
+  "recall_prueba": 0.8947,
+  "periodo_entrenamiento": "2023-02-01 → 2025-02-20",
+  "periodo_prueba": "2025-02-21 → 2025-12-31"
+}
